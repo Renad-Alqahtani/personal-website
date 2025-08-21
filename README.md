@@ -2,7 +2,7 @@
 
 
 
-## 💡 Project Idea
+##  Project Idea
 
 The website serves as a digital portfolio. It includes:
 - A short personal introduction
@@ -14,7 +14,7 @@ The design is clean and user-friendly, aiming to reflect Rinad's personality and
 
 ---
 
-## 🛠️ How It Works
+##  How It Works
 
 The website is built using basic web development technologies:
 - **HTML**: For structuring the content
@@ -24,7 +24,7 @@ The website is built using basic web development technologies:
 All files are organized within a single folder to keep the project clean and easy to manage.
 
 ---
-## 📌 How to Run the Project
+##  How to Run the Project
 
 1. Open the project folder on your device
 2. Double-click the `index.html` file to open it in your browser
@@ -32,7 +32,7 @@ All files are organized within a single folder to keep the project clean and eas
 
 ---
 
-## 📝 Notes
+##  Notes
 
 This project is a starting point and can be expanded in the future by adding:
 - Responsive design for mobile and tablet devices
